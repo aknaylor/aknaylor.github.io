@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+body {
+ background-color : #F5F5F5;
+ font-family: 'Neue Haas Unica W1G', 'Helvetica Neue','Helvetica', 'Neue Haas Grotesk', 'Arial', sans-serif;
+/* font-feature-settings: "ss02";*/
+ font-size : 1.0em
+ color : #000000;
+ padding: 10px;
+ height: 90%;
+ width: 90%;
+ }
+
+.header, .footer {
+  color: #000000;
+  padding: 10px;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+}
+
+h1  {font-size : 1.4em;
+ font-style : normal;
+ font-weight: bold;
+ max-width:1050px;
+
+ }
+
+h2  {font-size : 1.25em;
+ font-style : normal;
+ font-weight: bold;
+
+ }
+
+h3  {font-size : 1.1em;
+ font-style : italic;
+ font-weight: normal;
+ }
+
+h1, h3{
+ display: inline;
+}
+
+p {font-size : 1em;
+ font-style : normal;
+ font-weight: normal;
+ line-height: 1.4;
+ max-width:1050px;
+ }
+
+p2 {font-size : 0.9em;
+ font-style : normal;
+ font-weight: normal;
+ line-height: 1.4;
+ max-width:1050px;
+ }
+
+
+a:link {
+ color : #000000;
+ text-decoration: none;
+ font-style : italic;
+}
+
+a:visited {
+ color: #000000;
+ text-decoration: none;
+ font-style : italic
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+a:active {
+  font-weight: bold;
+  font-style: normal;
+}
+
+img.one{
+    padding:1px;
+    width:100%;
+    max-width:910px;
+    max-height:1500px;
+}
+
+img.two {
+    padding:1px;
+    max-width:55%;
+}
+
+
