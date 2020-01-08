@@ -2,11 +2,9 @@
   box-sizing: border-box;
 }
 
-
-
 body {
  background-color : #F5F5F5;
- font-family: 'Neue Haas Unica W1G', 'Helvetica Neue','Helvetica', 'Neue Haas Grotesk', 'Arial', sans-serif;
+ font-family: 'Neue Haas Unica W1G', 'Helvetica Neue','Neue Haas Grotesk', 'Helvetica', 'Arial', sans-serif;
 /* font-feature-settings: "ss02";*/
  font-size : 1.0em
  color : #000000;
