@@ -51,6 +51,7 @@ h3  {font-size : 1.1em;
 
 h1, h3{
  display: inline;
+ max-width:1050px;
 }
 
 p {font-size : 1em;
