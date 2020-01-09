@@ -2,8 +2,6 @@
   box-sizing: border-box;
 }
 
-@import url("https://use.typekit.net/oay0ajd.css");
-
 html {
  font-family: sans-serif;
  -webkit-text-size-adjust: 100%;
@@ -12,7 +10,7 @@ html {
 
 body {
  background-color : #F5F5F5;
- font-family: 'neue-haas-unica', 'Neue Haas Unica W1G', 'Helvetica Neue','Neue Haas Grotesk', 'Helvetica', 'Arial', sans-serif;
+ font-family: 'Neue Haas Unica W1G', 'Helvetica Neue','Neue Haas Grotesk', 'Helvetica', 'Arial', sans-serif;
 /* font-feature-settings: "ss02";*/
  font-size : 1.0em
  color : #000000;
@@ -34,26 +32,22 @@ li a {
 h1  {font-size : 1.4em;
  font-style : normal;
  font-weight: bold;
- max-width:1050px;
 
  }
 
 h2  {font-size : 1.25em;
  font-style : normal;
  font-weight: bold;
- max-width:1050px;
 
  }
 
 h3  {font-size : 1.1em;
  font-style : italic;
  font-weight: normal;
- max-width:1050px;
 }
 
 h1, h3{
  display: inline;
- max-width:1050px;
 }
 
 p {font-size : 1em;
