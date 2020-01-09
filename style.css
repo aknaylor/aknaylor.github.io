@@ -41,13 +41,15 @@ h1  {font-size : 1.4em;
 h2  {font-size : 1.25em;
  font-style : normal;
  font-weight: bold;
+ max-width:1050px;
 
  }
 
 h3  {font-size : 1.1em;
  font-style : italic;
  font-weight: normal;
- }
+ max-width:1050px;
+}
 
 h1, h3{
  display: inline;
